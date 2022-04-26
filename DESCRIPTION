@@ -16,7 +16,7 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
 URL: gacolitti/clustering.fun
-BugReports: gacolitti/clustering.fun/issues
+BugReports: https://github.com/gacolitti/clustering.fun/issues
 Suggests: 
     spelling,
     testthat (>= 3.0.0)
