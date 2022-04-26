@@ -6,4 +6,6 @@
 #' @noRd
 app_server <- function( input, output, session ) {
   
+  mod_iris_server("iris1")
+  
 }

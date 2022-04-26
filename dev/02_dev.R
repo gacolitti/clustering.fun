@@ -1,6 +1,9 @@
-usethis::use_package("thinkr")
-golem::add_module(name = "name_of_module1")
-golem::add_module(name = "name_of_module2")
+
+usethis::use_pipe()
+
+golem::add_module(name = "iris")
+
+
 golem::add_fct("helpers")
 golem::add_utils("helpers")
 golem::add_js_file("script")

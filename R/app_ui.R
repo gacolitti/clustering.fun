@@ -7,8 +7,12 @@
 app_ui <- function(request) {
   tagList(
     golem_add_external_resources(),
-    fluidPage(
-      h1("clustering.fun")
+    navbarPage(
+      title = "K-Means Clustering in R",
+      tabPanel(
+        title = "Iris",
+        mod_iris_ui("iris1")
+      )
     )
   )
 }
