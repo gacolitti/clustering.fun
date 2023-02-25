@@ -21,3 +21,9 @@ knitr::opts_chunk$set(
 
 The goal of clustering.fun is to interactively explore k-means clustering using popular R datasets.
 Just for fun!
+
+```{r}
+#| echo: false
+knitr::include_graphics(here::here("inst/app/www/app-screenshot.png"))
+```
+

@@ -10,11 +10,6 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 <!-- badges: end -->
 
 The goal of clustering.fun is to interactively explore k-means
-clustering using popular R datasets.
+clustering using popular R datasets. Just for fun!
 
-## Code of Conduct
-
-Please note that the clustering.fun project is released with a
-[Contributor Code of
-Conduct](https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html).
-By contributing to this project, you agree to abide by its terms.
+<img src="inst/app/www/app-screenshot.png" width="100%" />
